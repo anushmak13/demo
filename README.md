@@ -15,4 +15,6 @@ Next favourites are my school teachers, Prabhu sir,Chandra mam.
 Prabhu sir is our class teacher,he would always scold us in the class but he always took our side infront of others.He praised our class infront of others teachers and other classes but kept on getting angry infront of us.
 Chandra mam is our CS teacher,she always boosted us . She believed in us.She was there for us both infornt of us and behind us.
 #message
-I don't have anything to say sir. thank you
+HI sir, you said that we should practice coding every day atleast for one hour. But we will be learning almost three programming languages at the end of second year.
+So,what language should we focus on in that one hour..? or if we practice one language each day, like day1- python, day 2- c, day3 - java,what if on the fourth day i forgot a bit of phthon..? 
+in which way i should practice sir..?
